@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shyamkrishnan</h1>
 - 🌱 I’m currently learning **javascript**
 
-<h3 align="left">Connect with me:**shyamppk2000@gmail.com**</h3>
+<h3 align="left">Connect with me:shyamppk2000@gmail.com</h3>
 <p align="left">
 </p>
 
